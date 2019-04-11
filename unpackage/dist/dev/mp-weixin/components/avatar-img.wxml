@@ -1,0 +1,1 @@
+<view class="avatar-box" bind:__l="__l"><image class="avatar" style="{{'height:'+(avatarHeight+'upx')+';'+('width:'+(avatarHeight+'upx')+';')}}" src="{{host.imgHost+headPicUrl}}" mode></image><view class="{{['icon-v',size==='big'?'big':'small']}}"></view></view>

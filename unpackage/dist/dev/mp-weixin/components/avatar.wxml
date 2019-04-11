@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['goAuthor',['$event']]]]]}}" class="avatar-wrapper flex" style="{{'height:'+(height+'upx')+';'}}" catchtap="__e" bind:__l="__l"><avatar-img headPicUrl="{{author.authorPic}}" avatarHeight="{{avatarHeight}}"></avatar-img><text class="author-name">{{author.authorName}}</text></view>

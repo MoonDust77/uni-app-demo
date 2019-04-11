@@ -1,0 +1,25 @@
+
+.footer {
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	    -ms-flex-pack: end;
+	        justify-content: flex-end;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	font-size: 22rpx;
+	color: #999;
+	height: 76rpx;
+}
+.like-box {
+	margin-right: 52rpx;
+}
+.icon-like {
+	width: 32rpx;
+	height: 32rpx;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAs9JREFUWAntlruLE1EUxjcx0bgWBkF0SfBRGFAbFSzW9QGCTRAFxaAiwYQky/oP2FuJjQ9QyQNSCgHBrIWPQhEbQYXVxm6bbXySgCZgHhN/J8yFe8dknWSTah24nMece77vfnPnzkxMrPbLM4wA+Xx+d6fTucaY9ng8m7HfsOVgMHg1Fov9GqSnb5BiVQvgE8Z2ibFiQtgr1Wo1jH9aEm4vr9tCVZfNZqds8Irf798WiUT8Pp9vHwrUyJ8qFotbVa0bO4wCB6QxgO+SyeSSDfIhl8st4M+0Wq1d2M92/p9mYAUAPipdWe1bvTtxW4/d+gMTAOikNIfIcwfIlB1/d+SXDQciUCgUZui2B/Av6XT6tepcKpXW4u9kWKFQaFHl3VjXBNhcgXa7fcduehMSlgKoVCr78X3kPkWj0d8q78a6JtBsNu/TUDbgYjgcvqU393q903b8Rs+78Y2DiJ38g2e8qd9EVviTcRj5P+o1zHvEvH7vf505C5C8nkqlHuvzxHcq4HcWOOIbTnCAZRFHHHV6OEnNIR7fPGfInH5DfEMBCurk1s/OznbzxN1jTsXOyW5iekyiwGVI3MXWOLzCiUSiquY6FRjmYFK9elrI1zOZzD3AX0BiAwfVQb3QIECREeuFK/UBb0kPrLFIA5CbxiNZKaiaz2PYiH+MYQUCgfcqL9YggAJjIcAbcAasdYyX8Xj8qwCryyAwLgXoe0EAIfJAAStrEECA7q5XN0dh+XnZQp/j9G7w2X7o7GkQgOnICViWdY62awB+qr9+iohBYBwKAHTRBvtLfskbBEatAB+wHWDIf6P8Lc0LoPMyCHBzqJ8KZ1MVNxqN8+IDXpYDSeV1OzYCgHpZ+SUBw/aUX+4ZBCgciQKy8xm3IbEXjCXsMwHrdRkHD5/VCsXBXoXD5GRBjLN8Qcv95hsKAD4SBQCtMV7R78Ry4P1I/c+vLgX+AI36Bv/J6K4pAAAAAElFTkSuQmCC);
+	background-size: contain;
+	margin-right: 8rpx;
+}
+

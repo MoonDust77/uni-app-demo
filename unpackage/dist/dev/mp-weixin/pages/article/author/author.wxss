@@ -1,0 +1,36 @@
+
+.author-info-box {
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	background: #FFFFFF;
+	height: 200rpx;
+	padding: 0 30rpx;
+}
+.author-info {
+	margin-left: 24rpx;
+	padding: 18px 0;
+}
+.author-name {
+	font-size: 36rpx;
+}
+.author-authentication {
+	font-size: 28rpx;
+	color: #999999;
+	margin-top: 12rpx;
+}
+.title {
+	height: 97rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	background: #FFFFFF;
+	font-size: 32rpx;
+	padding: 32rpx 30rpx 0;
+}
+.list-item {
+	padding: 20rpx 30rpx;
+	background: #FFFFFF;
+	margin-bottom: 20rpx;
+}
+

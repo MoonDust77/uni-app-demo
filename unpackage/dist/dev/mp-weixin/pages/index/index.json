@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "发现",
+  "usingComponents": {
+    "avatar": "/components/avatar",
+    "article-abstract": "/components/article-abstract",
+    "article-footer": "/components/article-footer"
+  }
+}

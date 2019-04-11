@@ -1,0 +1,13 @@
+
+.content-img {
+	width: 100%;
+}
+.content-text {
+	font-size: 28rpx;
+	line-height: 40rpx;
+	display: -webkit-box;    
+	-webkit-box-orient: vertical;    
+	-webkit-line-clamp: 2;    
+	overflow: hidden;
+}
+

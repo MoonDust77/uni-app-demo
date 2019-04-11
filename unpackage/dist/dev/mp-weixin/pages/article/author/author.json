@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "avatar-img": "/components/avatar-img",
+    "article-abstract": "/components/article-abstract",
+    "article-footer": "/components/article-footer"
+  }
+}

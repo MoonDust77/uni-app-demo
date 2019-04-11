@@ -1,0 +1,1 @@
+<view class="footer flex" bind:__l="__l"><block wx:if="{{showLike}}"><view class="like-box flex"><view class="icon-like"></view><text>点赞</text></view></block><view class="flex"><text>{{"浏览"+browseCount}}</text></view></view>
